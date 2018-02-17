@@ -22,14 +22,12 @@ and add chosen before path
 
 # Shortcuts
 
-`crel+e` - recent files
-`alt+insert` - create new file
-`shift+f12` - hides all windows - `f12` - reverts
-`shft+ctrl+<arrow>` - resize window
-`alt+enter -> inject language` - inject piece of code eg. json
-`alt+slash` - cyclic expand word
-`alt+home` - focus nav bar 
-`alt+9` - open version control window
-Testing REST! 
+- `crel+e` - recent files
+- `alt+insert` - create new file
+- `shft+ctrl+<arrow>` - resize window
+- `alt+enter -> inject language` - inject piece of code eg. json
+- `alt+slash` - cyclic expand word
+- `alt+home` - focus nav bar 
+- `alt+9` - open version control window
 
-`ctrl+ pageUp/PageDown` (chrome) switch tab
+- `ctrl+ pageUp/PageDown` (chrome) switch tab
