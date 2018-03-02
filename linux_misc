@@ -1,0 +1,7 @@
+
+
+### Compress folder with tar
+`tar czf name_of_archive_file.tar.gz name_of_directory_to_tar`
+
+### Unpack .tar.gz archives
+`tar -xzf example.tar.gz`

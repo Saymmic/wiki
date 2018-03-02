@@ -24,3 +24,13 @@ class Post(models.Model):
     # field definitions...
     objects = PostManager()
 ```
+
+## convinient object url property
+
+```python
+from rest_framework import reverse as api_reverse
+class SomeModel(models.Model):
+    ... 
+    def get_url(self, request=None):
+        api_reverse('some_name_space', kwargs={'pk': self.pk}, request=request)
+```
