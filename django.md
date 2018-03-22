@@ -34,3 +34,16 @@ class SomeModel(models.Model):
     def get_url(self, request=None):
         api_reverse('some_name_space', kwargs={'pk': self.pk}, request=request)
 ```
+
+## Timezone aware datetime object
+```python
+from django.utils import timezone
+
+d = timezone.now()
+```
+
+## See sql queries:
+```python
+from django.db import connection
+print(connection.queries)
+```

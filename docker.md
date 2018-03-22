@@ -12,3 +12,7 @@
 
 ### remove all docker images
 `docker rmi $(docker images -q)`
+
+### Delete all images and containers
+`docker rm $(docker ps -a -q)` - delete all containers
+`docker rmi $(docker images -q)` - delete all images
