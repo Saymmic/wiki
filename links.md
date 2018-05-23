@@ -7,10 +7,8 @@
 # DJANGO
 
 * [LINK](https://djangobook.com/the-django-book/) - Django The Book - very userful
-
 * [LINK](http://django-best-practices.readthedocs.io/en/latest/applications.html) - best practices
 * [LINK](https://steelkiwi.com/blog/best-practices-working-django-models-python/) - models best practices
-
 * [LINK](https://djangobook.com/users-groups-permissions/) - users, groups and permissions
 * [LINK](https://code.djangoproject.com/wiki/new_meta_api) - _meta attr
 
@@ -24,6 +22,9 @@
 * [LINK](https://www.trustedhousesitters.com/engineering/code/django-rest-framework-understanging-modelserializer/) - short and quite useful about serializers
 * [LINK](https://medium.com/@jxstanford/django-rest-framework-file-upload-e4bc8de669c0) - about file uploading
 
+### Factory boy
+* [LINK](https://stackoverflow.com/questions/21564878/factory-boy-add-several-dependent-objects/50471348#50471348) - reversed factory
+
 # DOCKER  
 
 * [LINK](https://github.com/jpetazzo/dind) - docker in docker (dind)
@@ -33,7 +34,14 @@
 
 * [LINK](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html) - .md markdown
 * [LINK](https://github.com/tomav/docker-mailserver) - docker mail server with everything you need
-
 * [LINK](https://www.ollegustafsson.com/en/whitelist-senders-in-amavis/) - clamav email sender whitelist
-
 * [LINK](https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs) - ssl certs tutorial
+
+# CHEATSHEETS
+* [LINK](https://github.com/wsargent/docker-cheat-sheet) - docker
+* [LINK](https://gist.github.com/buonzz/054304b3145323c34ed05cb65f1b174f) - docker compose
+* [LINK](https://github.com/faif/python-patterns) - python design patterns
+* [LINK](https://github.com/Nifled/drf-cheat-sheet) - django rest framework
+* [LINK](https://devhints.io/tig) - tig
+* [LINK](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet) - oh-my-zsh
+* [LINK]() -
