@@ -1,6 +1,9 @@
 # REMEMBER
-* ag-sliversearcher
-* hhighlighter
+* ag - search in directory for pattern
+* h - highlights pattern
+* e64, d64 - encode and decode (base64)
+* cpv - copying with progress bar
+* x - extracts every archive
 
 # POSTGRES
 
