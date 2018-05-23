@@ -11,18 +11,10 @@
 * [LINK](https://steelkiwi.com/blog/best-practices-working-django-models-python/) - models best practices
 * [LINK](https://djangobook.com/users-groups-permissions/) - users, groups and permissions
 * [LINK](https://code.djangoproject.com/wiki/new_meta_api) - _meta attr
-
-#### Packages
-
 * [LINK](https://djangopackages.org/) - packages
 * [LINK](https://github.com/rosarior/awesome-django) - awesome django github 
-
-### Django REST Framework
-
 * [LINK](https://www.trustedhousesitters.com/engineering/code/django-rest-framework-understanging-modelserializer/) - short and quite useful about serializers
 * [LINK](https://medium.com/@jxstanford/django-rest-framework-file-upload-e4bc8de669c0) - about file uploading
-
-### Factory boy
 * [LINK](https://stackoverflow.com/questions/21564878/factory-boy-add-several-dependent-objects/50471348#50471348) - reversed factory
 
 # DOCKER  
