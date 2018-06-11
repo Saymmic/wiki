@@ -3,6 +3,7 @@
 * [LINK](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PatternConcept.html) - Design patterns
 * [LINK](https://github.com/jiaaro/pydub/) - Audio lib based on waves
 * [LINK](https://pyformat.info/) - format() --> user f'' string instead
+* [LINK](http://interactivepython.org/runestone/static/pythonds/index.html) - **Problem Solving with Algorithms and Data Structures using Python**
 
 # DJANGO
 
