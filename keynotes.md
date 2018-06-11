@@ -16,7 +16,8 @@ If you have big enough infrastructure then think about optimization
 Dropbox (2MLOC +) and Zulip and also instagram are using type annotations.
 
 1. **mypy** for type annotation checking -> use it with your hooks with script (see Zulip script for mypy)
-2. Tools 
+
+**Tools**
   * **MonkeyType** (facebook/instagram) - Tries to annotate functions automaticly in runtime (instagram using it in production)
   * **PyAnnotate** (dropbox) - same as above
   * **pytype** (google) - Statically check and infer types for unannotated Python code. (This is not an official Google product.)
