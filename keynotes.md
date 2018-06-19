@@ -21,3 +21,22 @@ Dropbox (2MLOC +) and Zulip and also instagram are using type annotations.
   * **MonkeyType** (facebook/instagram) - Tries to annotate functions automaticly in runtime (instagram using it in production)
   * **PyAnnotate** (dropbox) - same as above
   * **pytype** (google) - Statically check and infer types for unannotated Python code. (This is not an official Google product.)
+
+
+### [Cracking the coding interview](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
+
+Step by step coding interview process:
+1. Listen and understand
+ * Ask for complexity and space constraints
+ * Ask for example if you still don't understand
+2. Think about examples
+ * Create multiple examples that covers all difficulties
+ * Think how you can test your code
+3. Think about simplest solution
+4. Think about optimal solution
+5. Work throught your algorithm step by step with example
+6. Code your solution
+7. Test your code: edge cases ect.
+ * Check edge cases
+ * Think twice about lines of code that seems to you suspicious
+8. Make improvements and optimizations if needed
