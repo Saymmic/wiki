@@ -21,7 +21,46 @@ Dropbox (2MLOC +) and Zulip and also instagram are using type annotations.
   * **MonkeyType** (facebook/instagram) - Tries to annotate functions automaticly in runtime (instagram using it in production)
   * **PyAnnotate** (dropbox) - same as above
   * **pytype** (google) - Statically check and infer types for unannotated Python code. (This is not an official Google product.)
+  
+  
+### [Graham Dumpleton - Secrets of a WSGI master. - PyCon 2018](https://www.youtube.com/watch?v=CPz0s1CQsTE)
 
+**WSGI is a specification for an Application Programming Interface** -> is not a wire protocol like http
+
+1. Do not use raw WSGI use some web framework instead.
+2. The development servers builtin to a framework are not good enough never use them in production!
+3. There are couple of options to serve Python apps:\
+    nginix  <-->  uWSGI/Unicorn ... <--> python app
+
+4. Apache and mod_wsgi
+    * Install mod_wsgi through pip: \
+    `pip install mod_wsgi`
+    * Running wsgi from command line\
+    `mod_wsgi-express start-server wsgi.py` \
+    predefined settings used by express are reasonable and good
+    * Run as a dev server for django:\
+    `python manage.py runmodwski --reload-on-changes` <- remember to add mod_wsgi to installed_apps
+    * Run as a prod server:
+    ```
+    mod_wsgi-express start-server wsgi.py \ 
+    --server-root /etc/wsgi-port-80 \
+    --user www-data \ 
+    --group www-data \
+    --port 80 \
+    --url-alias /static static\ 
+    --setup-only
+    ```
+    
+
+5. **Never run containers as a root**
+6. wrapdrive project to simplify 
+7. Don't user mode_wsgi embedded mode use deamon mode instead
+8. Useful options:
+    * startup-timeout
+    * socket-timeout
+    * queue-timeout
+    * request-timeout
+    
 
 ### [Cracking the coding interview](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
 
