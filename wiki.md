@@ -47,6 +47,8 @@ Move the `pl.dic` to the desired location eg. `~/.dicts/pl`
     settings>editor>spelling>dictionaries>+(green plus in right top)
 and add chosen before path
 
+[Another tutorial](https://github.com/sigo/jetbrains-polish-dictionary)
+
 
 ## Shortcuts
 
