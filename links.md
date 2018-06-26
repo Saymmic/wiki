@@ -29,6 +29,7 @@
 * [LINK](https://github.com/tomav/docker-mailserver) - docker mail server with everything you need
 * [LINK](https://www.ollegustafsson.com/en/whitelist-senders-in-amavis/) - clamav email sender whitelist
 * [LINK](https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs) - ssl certs tutorial
+* [LINK](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html) - Schema evolution!
 
 # CHEATSHEETS
 * [LINK](https://github.com/wsargent/docker-cheat-sheet) - docker
