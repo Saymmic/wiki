@@ -39,3 +39,6 @@
 * [LINK](https://devhints.io/tig) - tig
 * [LINK](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet) - oh-my-zsh
 * [LINK]() -
+
+# I3
+* [LINK](http://plankenau.com/blog/post/gaussianlock) - i3lock blur
