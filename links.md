@@ -42,3 +42,5 @@
 
 # I3
 * [LINK](http://plankenau.com/blog/post/gaussianlock) - i3lock blur
+* [LINK](https://www.youtube.com/watch?v=8-S0cWnLBKg) - i3 video tutorial. Very good
+
